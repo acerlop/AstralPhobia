@@ -8,7 +8,7 @@ public class Patatas : MonoBehaviour
     void Start()
     {
         ///////////////////////////
-        /// AQUÕ HACEMOS MILANESAS
+        /// AQU√ç HACEMOS MILANESAS
         //////////////////////////
     }
 
@@ -16,7 +16,12 @@ public class Patatas : MonoBehaviour
     void Update()
     {
         ///////////////////////////////////////////////////
-        /// AQUÕ NOS COMEMOS LAS MILANESAS MIENTRAS QUEDEN
+        /// AQU√ç NOS COMEMOS LAS MILANESAS MIENTRAS QUEDEN
         ///////////////////////////////////////////////////
+    }
+    
+    public void NoQuedanMilanesas()
+    {
+    //SOCORRO NO QUEDAN MILANESAS
     }
 }
